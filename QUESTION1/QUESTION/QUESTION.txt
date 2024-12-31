@@ -1,0 +1,6 @@
+QUESTION:1. In the following shopping cart add, remove, and edit items
+=> const shoppingCart = ['Milk', 'Coffee', 'Tea', 'Honey'
+A) add 'Meat' in the beginning of your shopping cart if it has not been already added
+B) add Sugar at the end of you shopping cart if it has not been already added
+C) remove 'Honey' if you are allergic to honey
+D) modify Tea to 'Green Tea'
